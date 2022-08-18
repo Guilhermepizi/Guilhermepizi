@@ -1,5 +1,10 @@
 ### Sejam bem vindos ao meu Github👋
 
+- 🔭 Atualmente estou em transição de carreira para a área de Desenvolvimento
+- 🌱 Estudando JavaScript e Java
+
+
+<img src=https://github.com/Guilhermepizi/Guilhermepizi/blob/main/GodOfWar.gif>
 <div>
 <a href="https://github.com/Guilhermepizi">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermepizi&layout=compact&langs_count=7&theme=dracula"/>
@@ -7,8 +12,10 @@
 </div>
 
 ### Ferramentas e Tecnologias
-<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="drawing" width="100"/>
+<img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg alt="drawing" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="drawing" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="drawing" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="drawing" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="drawing" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="drawing" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="drawing" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="drawing" width="60"/>
 
+
+![Snake animation](https://github.com/Guilhermepizi/Guilhermepizi/blob/output/github-contribution-grid-snake.svg)
 
 ### Contatos
 <div>
