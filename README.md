@@ -1,16 +1,10 @@
 ### Sejam bem vindos ao meu Github👋
 
 <div>
-  Aqui você verá um pouco sobre algumas linguagens e tecnologias que estudei, e o que eu estou estudando atualmente. São projetos que desenvolvi para descobrir e me aprofundar no mundo da tecnologia. <br> 
-  Sou por natureza uma pessoa curiosa, que gosta de descobrir e aprender sobre coisas novas. Com as linguagens não foi diferente, ja estudei C, Python, SQL. Mas foi em Java que resolvi me aprofundar devido a sua complexidade com Programação Orientada Objetos onde estou me desenvolvendo para me tornar um profissional melhor.<br>
-  Atualmente estou estudando Java na Udemy, onde estou aprendendo mais sobre Orientação Objeto e como aplicar o Java Springboot em um projeto prático.<br>  
-  Em paralelo estou estudando na Digital House Desenvolvimento Fullstack Web. Esse curso me despertou curiosidade em como interarir e conectar a parte de Front e Back-end. Estou estudando a linguagem JavaScript e Node.js.<br>
-  Como leitura estou lendo o livro "código limpo: habilidades práticas do agile software" - Robert C. Martin para melhorar ainda mais meus projetos.<br>
-  Estou em transição de carreira, onde busco minha primeira vaga na área de tecnologia que por destino da vida precisei adiar mas não desisitir, um pouco minha entrada no mercado de trabalho.<br><br>
-  
-  Espero que ao explorarem meu Git gostem de onde minha curiosidade me guiou!!! 
-
-
+<a href="https://github.com/Guilhermepizi">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermepizi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermepizi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### Ferramentas e Tecnologias
 <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="drawing" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="drawing" width="100"/>
